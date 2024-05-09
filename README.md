@@ -11,7 +11,7 @@ C, C++
 
 ## Education
 **SKKU**, South Korea\
-Social Welfare\
+Social Welfare
 
 **SKKU**, South Korea\
 Computing and Informatics, 2023-
