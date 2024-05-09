@@ -11,6 +11,9 @@ C, C++
 
 ## Education
 **SKKU**, South Korea\
+Social Welfare\
+
+**SKKU**, South Korea\
 Computing and Informatics, 2023-
 
 
@@ -19,5 +22,5 @@ _Dean's list of 2023-2_
 
 
 ## Contact Provides
-kny010309@skku.edu\
+E-mail : kny010309@skku.edu\
 github ID : kooisnine
