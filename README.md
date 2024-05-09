@@ -1,9 +1,8 @@
-# Hi, I am Nayeong Koo
-
+# Nayeong Koo
 
 
 ## Introduction
-Hi, I am Nayeong from Korea. 23 years old, and I am majoring Computing and Informatics. 
+Hi, I am Nayeong from Korea. Female, 23 years old, and I am majoring Computing and Informatics. 
 
 
 ## Skill
@@ -19,4 +18,5 @@ _Dean's list of 2023-2_
 
 
 ## Contact Provides
-kny010309@skku.eud
+kny010309@skku.edu
+github ID : kooisnine
