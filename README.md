@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Hi, I am Nayeong from Korea. /
+Hi, I am Nayeong from Korea. |
 Female, 23 years old, and I am majoring Computing and Informatics. 
 
 
