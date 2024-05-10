@@ -3,12 +3,12 @@
 
 ## Introduction
 Hi, I am Nayeong from Korea. \
-I'm 23 years old female, and I am majoring Computing and Informatics. 
+I'm 23 years old, and I am majoring Computing and Informatics. 
 
 ---
 
 ## Skill
-C, C++
+C, C++, Python
 
 ---
 
