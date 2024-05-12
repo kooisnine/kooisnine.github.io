@@ -1,6 +1,6 @@
 # Nayeong Koo
 
-<img src = "./짱귀여운고양이.jpg" width = "300px" hegith = "400px" title = "cat"/>
+<img src = "./selfie_.jpg" width = "300px" hegith = "400px" title = "cat"/>
 
 
 ## Introduction
