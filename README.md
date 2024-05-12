@@ -4,8 +4,10 @@
 
 
 ## Introduction
-Hi, I am Nayeong from Korea. \
+Hi, This is Nayeong from Korea. \
 I'm 23 years old, and I am majoring Computing and Informatics. 
+I love finding out the exact working mechanisms of the human language, and transporting those to the AI programm.
+If you have any question about me, contact me freely.
 
 ---
 
@@ -15,11 +17,13 @@ C, C++, Python
 ---
 
 ## Education
-**SKKU**, South Korea\
-Social Welfare, 2020-
+**Hankuk Academy of Foreign Studies**, South Korea\
+Humanities 2017 - 2020
+
 
 **SKKU**, South Korea\
 Computing and Informatics, 2023-
+( System Programming , Open Source Sofrware Practice , Data Structure , Problem Solving )
 
 ---
 
