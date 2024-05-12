@@ -1,6 +1,6 @@
 # Nayeong Koo
 
-(./짱귀여운고양이.jpeg)
+<img src = "./짱귀여운고양이.jpeg" width = "300px" hegith = "400px" title = "cat"/>
 
 
 ## Introduction
