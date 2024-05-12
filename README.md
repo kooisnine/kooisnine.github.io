@@ -1,5 +1,7 @@
 # Nayeong Koo
 
+(./짱귀여운고양이.jpeg)
+
 
 ## Introduction
 Hi, I am Nayeong from Korea. \
