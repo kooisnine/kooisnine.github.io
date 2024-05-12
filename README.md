@@ -17,7 +17,7 @@ C, C++, Python
 ---
 
 ## Education
-**Hankuk Academy of Foreign Studies**, South Korea\
+**HAFS**, South Korea\
 Humanities 2017 - 2020
 
 
